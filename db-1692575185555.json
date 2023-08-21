@@ -1,0 +1,108 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "name": "producción"
+    },
+    {
+      "id": 2,
+      "name": "finanzas"
+    },
+    {
+      "id": 3,
+      "name": "contabilidad"
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "name": "automóvil"
+    },
+    {
+      "id": 2,
+      "name": "moto"
+    }
+  ],
+  "employees": [
+    {
+      "name": "Roberto Escalante Arias editado",
+      "areasId": 3,
+      "typesId": 1,
+      "color": "rojo",
+      "placa": "uht2312",
+      "id": 1
+    },
+    {
+      "name": " edwin morales vargas",
+      "areasId": 3,
+      "typesId": "1",
+      "color": "rojo",
+      "placa": "4205AHK",
+      "id": 2
+    },
+    {
+      "name": " Marianela Gonzales",
+      "areasId": "1",
+      "typesId": "2",
+      "color": "amarillo",
+      "placa": "adf452",
+      "id": 3
+    },
+    {
+      "name": " vicente morales",
+      "areasId": 1,
+      "typesId": 1,
+      "color": "rojo",
+      "placa": " 12345",
+      "id": 4
+    },
+    {
+      "name": " nataly",
+      "areasId": "3",
+      "typesId": 1,
+      "color": "rojo",
+      "placa": " 1021EYI",
+      "id": 5
+    },
+    {
+      "name": "rolando",
+      "areasId": 1,
+      "typesId": 1,
+      "color": "vee",
+      "placa": "123",
+      "id": 6
+    },
+    {
+      "name": "raul",
+      "areasId": "1",
+      "typesId": 1,
+      "color": "negro",
+      "placa": "123",
+      "id": 7
+    },
+    {
+      "name": "rolito",
+      "areasId": 1,
+      "typesId": 1,
+      "color": "verde",
+      "placa": "12547",
+      "id": 8
+    },
+    {
+      "name": "Vicente Edwin Morales Daza",
+      "areasId": 3,
+      "typesId": 2,
+      "color": "Rojo Zuzuki",
+      "placa": "1021 EYE",
+      "id": 9
+    },
+    {
+      "name": "MARCO ANTONIO CANEDO",
+      "areasId": 2,
+      "typesId": 1,
+      "color": "rOJO",
+      "placa": "1234hgf",
+      "id": 10
+    }
+  ]
+}
